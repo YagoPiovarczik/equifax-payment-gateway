@@ -1,2 +1,2 @@
 # equifax-payment-gateway
-[Demo] Gateway de Pagamento - Release Management MVP
+Microsservico demo - Release Management MVP
