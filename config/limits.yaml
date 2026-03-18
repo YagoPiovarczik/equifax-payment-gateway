@@ -1,8 +1,6 @@
 pix:
-  night_limit_per_tx: 500.00
-  night_limit_total: 2000.00
-  night_window_start: '22:00'
+  night_limit_per_tx: 1000.00
+  night_limit_total: 5000.00
+  night_window_start: '20:00'
   night_window_end: '06:00'
   enabled: true
-  legacy_mode: true
-  old_config_v1: true
